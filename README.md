@@ -57,4 +57,4 @@ Create a Python script to analyze the financial records of a company with the se
   -------------------------
 
   ## Tools Used
-  VBA, Terminal, Python 
+  VSC, Terminal, Python 
