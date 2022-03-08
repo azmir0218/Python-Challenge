@@ -1,23 +1,23 @@
+### PyBank and PyPoll Python Challenge
 
-
-##Objective
+#### Objective
 
 To apply concepts learned in Python by completing the PyBank and PyPoll challenge. Both of these challenges encompass a real-world situation.
 
-##PyBank
-Create a Python script to analyze the financial records of a company with the set of given financial data. The script needs to include the criteria below and the outcome should look as shown under the criteria. 
+#### PyBank
+Created a Python script to analyze the financial records of a company with the set of given financial data. The script included the criteria below and the outcome looks as shown under the criteria. 
 
  * The total number of months included in the dataset
 
   * The net total amount of "Profit/Losses" over the entire period
 
-  * Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
+  * Calculated the changes in "Profit/Losses" over the entire period, then found the average of those changes
 
   * The greatest increase in profits (date and amount) over the entire period
 
   * The greatest decrease in profits (date and amount) over the entire period
 
-* As an example, your analysis should look similar to the one below:
+* As an example, the analysis looks similar to the one below:
 
   ```text
   Financial Analysis
@@ -28,10 +28,10 @@ Create a Python script to analyze the financial records of a company with the se
   Greatest Increase in Profits: Feb-2012 ($1926159)
   Greatest Decrease in Profits: Sep-2013 ($-2196167)
 
-  ##PyPoll
-  Create a Python script to help a small, rural town modernize its vote counting process by using the set of given poll data. The script needs to include the criteria below and the outcome should look as shown under the criteria. 
+ #### PyPoll
+  Created a Python script to help a small, rural town modernize its vote counting process by using the set of given poll data. The script included the criteria below and the outcome looks as shown under the criteria. 
 
-    * The total number of votes cast
+  * The total number of votes cast
 
   * A complete list of candidates who received votes
 
